@@ -1,0 +1,12 @@
+# Ignore build directory
+build/
+bin/
+*.out
+*.o
+*.a
+*.so
+
+# Ignore IDE & OS files
+.vscode/
+.idea/
+.DS_Store
